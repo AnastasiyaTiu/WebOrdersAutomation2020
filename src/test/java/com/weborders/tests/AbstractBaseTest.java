@@ -1,5 +1,5 @@
 package com.weborders.tests;
 
-public abstract class AbstractBaseTest {
+public class AbstractBaseTest {
 
 }
